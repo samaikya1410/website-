@@ -1,0 +1,42 @@
+/* Real estate agent profile */
+
+.agent{
+	   border:1px #CCC solid;
+	   border-radius:5px;
+	   padding:10px;
+	   background-color:#F4F4F4;
+   }
+ .agent img , .agent-list img{
+	   border:1px #CCC solid;
+	   border-radius:5px;
+	   padding:5px;
+   }
+   .agent-property{
+	   border:1px #CCC solid;
+	   border-radius:5px;
+	   font-size:12px;
+	   margin-top:10px;
+   }
+   .agent-list{
+	   padding-left:20px;
+   }
+   .fa{
+	   margin-top:20px;
+	   padding-right:5px;
+	   font-size:20px;
+   }
+   .fa-facebook{
+	   padding-left:10px;
+	   
+   }
+   .fa-facebook:hover{
+	   color:#3C599B;
+   }
+   .fa-google-plus{
+	   padding-left:10px;
+
+   }
+   .fa-twitter{
+	   padding-left:10px;
+	
+   }

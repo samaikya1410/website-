@@ -1,0 +1,151 @@
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Ubuntu|Roboto);
+*{
+
+	font-family:'Roboto',Arial, Helvetica, sans-serif;
+
+}
+.header-info{
+	
+	height:30px;
+	background-color:#CECECE;
+	line-height:30px;
+	
+}
+
+.header-social-icons a:hover{
+	color:#FFF;
+}
+
+.header-social-icons i {
+	margin-left:7px;
+	margin-right:7px;
+}
+
+.propmen{
+	width:100%;
+		
+}
+
+.slider img{
+	width:100%;
+	height:500px;
+}
+
+.slider{
+	margin-bottom:20px;
+}
+
+.services{
+	
+	color:#DD4814;
+	font-size:30px;
+	margin-bottom:20px;
+}
+
+.benefits{
+	border:#ccc 1px solid;
+	padding:5px;
+	text-align:justify;
+}
+
+.benefits-heading{
+	
+	font-size:20px;	
+	text-align:center;
+	color:#007196;
+
+}
+.benefits-block{
+	margin-bottom:20px;
+}
+.foot{
+	
+	background-color:#333333;
+	color:#ddd;
+}
+
+.bottom-footer {
+	
+	background-color:#CECECE;
+	color:#000;
+	
+}
+.footer-links ul{
+	list-style-type:none;
+	text-decoration:none;
+}
+
+.contact-footer ul{
+	list-style-type:none;
+}
+.top-footer ul{
+	width:100%;
+	padding-left:0px;
+}
+.abt{
+	text-align:justify;
+	margin-bottom: 20px;
+}	
+
+
+.test{
+	
+	color:#DD4814;
+	font-size:30px;
+	margin-bottom:20px;
+}
+
+
+.testm{
+	text-align:justify;
+	margin-bottom:20px;
+}
+
+.testm small{
+	margin:55%;
+}
+.testbt a{
+	margin-left:47%;
+}
+.testbt{
+	margin-bottom:20px;
+}
+.a1{
+	border:1px #ccc solid !important;
+}
+.a1 div{
+	border:0px #ccc solid !important;
+	border-radius:0px !important;
+}
+.a1 h3{
+	border:1px #ccc solid !important;
+	border-radius:0px !important;
+}
+
+.rpr{
+	margin-top:20px;
+	text-align:justify;
+	margin-bottom:20px;
+	font-size: 14px;
+}
+
+.link ul{
+	list-style-type:none;
+	text-decoration:none;
+}
+
+.propls{
+	padding-top:20px;
+	border:1px #cecece solid;
+	border-radius:3px;
+	
+}
+.links ul{
+	padding-left:0px;
+	list-style-type:none;
+	text-decoration:none;
+}
+.links>a{
+	margin:10%;	
+}

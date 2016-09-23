@@ -1,0 +1,25 @@
+.search-box {
+	background-color:#EFEFEF;
+	padding:10px;
+	margin:10px;
+	border-radius:10px;
+}
+
+.agent-box {
+	background-color:#F4F4F4;
+	padding:10px;
+	margin:10px;
+	border-radius:5px;
+}
+
+.agent-box img {
+	margin-right:5px;
+	width:125px;
+	height:125px;
+}
+
+.agent-box h5 {
+	font-weight:bold;
+}
+
+

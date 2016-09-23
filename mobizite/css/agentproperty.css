@@ -1,0 +1,48 @@
+.navigator a{
+			padding:10px;
+		}
+	
+		.fa-chevron-left{
+			padding-right:10px;
+			font-size:12px;
+		}
+		.fa-chevron-right{
+			padding-left:10px;
+			font-size:12px;
+		}
+		.carousel{
+			width:90%;
+			margin-left:5%;
+			margin-top:20px;
+			margin-bottom:20px;
+		}
+		.carousel img{
+			width:100% !important;
+			height:500px !important;
+		}
+	
+   .fa-facebook{
+	   padding-left:10px;
+	   padding-right:10px;
+	   font:15px;
+   }
+   .fa-facebook:hover{
+	   color:#3C599B;
+   }
+   .fa-google-plus{
+	   padding-right:10px;
+	   padding-left:10px;
+	   font:15px;
+   }
+   .fa-twitter{
+	   padding-right:10px;
+	   padding-left:10px;
+	   font:15px;
+   }
+   .btn{
+	   margin-left:15px;
+   }
+   .content {
+	   border:1px #E4E4E4 solid;
+	   padding:20px;
+   }

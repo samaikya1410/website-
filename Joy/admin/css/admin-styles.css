@@ -1,0 +1,234 @@
+@import url(http://fonts.googleapis.com/css?family=Armata);
+
+body {
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-image:url(../images/bg.png);
+}
+
+input, select, textarea {
+	outline:none;
+}
+
+img {
+	border:none;
+}
+
+
+.content-center {
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:15px;
+	margin-bottom:15px;
+	width:900px;
+	background-color:#FFF;
+	-webkit-box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, .1);
+	box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, .1);
+	border-radius:10px;
+	-moz-border-radius:10px;
+	padding:5px;
+}
+
+.search-box {
+	text-align:right;
+	padding:5px;
+}
+
+.search-box input[type='text'] {
+	padding:5px;
+	width:175px;
+}
+
+.view a {
+ 	text-decoration:none;
+	color:#069;
+	font-weight:bold;
+}
+
+.view a:hover {
+	text-decoration:underline;
+}
+
+.header {
+	height:100px;	
+}
+
+.headings {
+	font-size:16px;
+	font-family:'Armata',Arial;
+	padding:5px;
+	color:#369;
+	border-bottom:1px #CCC dotted;
+	border-top:1px #CCC dotted;
+	margin:5px;
+}
+
+.display-products {
+	width:840px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.clear {
+	clear:both;
+}
+
+.products-list {
+	background-color:#EEE;
+	height:200px;
+	width:180px;
+	margin:5px;
+	float:left;
+	padding:10px;
+}
+
+.products-list img {
+	width:180px;
+	height:150px;
+}
+
+.products-list h3 {
+	margin:0px;
+	font-family:'Armata', Arial;
+	font-weight:normal;
+	font-size:14px;
+}
+
+.products-list span {
+	color:#666;
+}
+
+.admin-nav {
+	height:20px;
+}
+
+.admin-nav ul  {
+	margin:0px;
+	text-align:center;
+}
+
+.admin-nav ul li {
+	display:inline;
+	list-style:none;	
+}
+
+.admin-nav ul li a {
+	text-decoration:none;
+	color:#333;
+	padding-left:5px;
+	padding-right:5px;
+	font-weight:bold;
+}
+
+.admin-nav ul li a:hover {
+	text-decoration:underline;
+}
+
+.content {
+	min-height:280px;
+	text-align:justify;
+	padding:5px;
+	color:#333;
+	line-height:1.7em;
+}
+
+.login {
+	width:350px;
+	height:175px;
+	background-color:#F0F0F0;
+	margin:40px auto;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	padding:25px;
+}
+
+.login input[type='text'] {
+	width:330px;
+	padding:5px;
+	margin:10px 0;
+}
+
+.login input[type='password'] {
+	width:330px;
+	padding:5px;
+	margin:10px 0;
+}
+
+.login input[type='submit'] {
+	padding:5px;
+	margin:10px 0;
+	float:right;
+}
+
+.add-product {
+	float:right;
+	margin:35px;
+}
+
+.add-product a{
+	text-decoration:none;
+	padding:10px;
+	background-color:#666;
+	color:#FFF;
+	border-radius:10px;
+}
+
+.adding-products {
+	width:320px;
+	background-color:#F0F0F0;
+	padding:30px;
+	margin:15px auto ;
+}
+
+.adding-products input[type='text'] {
+	width:300px;
+	padding:5px;
+	margin:5px 0;
+}
+
+.adding-products input[type='submit'] {
+	padding:5px;
+	margin:5px 0;
+	
+}
+
+.adding-products textarea {
+	width:300px;
+	padding:5px;
+	margin:5px 0;
+}
+
+.adding-products select {
+	width:310px;
+	padding:5px;
+	margin:5px 0;
+}
+
+.table-styles {
+	margin-bottom:5px;
+}
+
+.table-styles th{
+	font-family:'Armata',Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	border-bottom:1px solid #CCC;
+	text-align:left;
+}
+
+.table-styles tr {
+	border-bottom:1px solid #CCC;
+}
+
+.table-styles tr a {
+	text-decoration:none;
+	color:#333;
+	font-weight:bold;
+}
+
+.footer {
+	height:60px;
+	border-top: dotted 1px #CCC;
+	text-align:center;
+	line-height:5;
+}
